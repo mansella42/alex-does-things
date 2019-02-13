@@ -1,6 +1,6 @@
 ---
-layout: blog
-title: Blog
+layout: page
+title: Welcome
 cover: true
 image: /assets/icons/trees.png
 ---
