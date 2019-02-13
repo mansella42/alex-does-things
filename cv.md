@@ -10,7 +10,7 @@ order: 5
 Nothing fancy here.
 {:.lead}
 
-<a href="./assets/cv.pdf"><button>Download CV</button></a>
+<a href="../assets/cv.pdf"><button style="color:aquamarine;" >Download CV</button></a>
 
 <a href="../assets/cv.pdf" class="button" target="_blank">Download CV</a>
 
