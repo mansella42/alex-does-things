@@ -24,7 +24,7 @@ title:                 Alex Does Things
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Alex Mansell's Portfolio Site as Content Designer
+  Alex Mansell's Portfolio Site, Content Designer
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -257,7 +257,7 @@ remote_theme: qwtel/hydejack@v8.1.1
 #   name:                <firstname> <lastname>
 #   links:
 #     - https://twitter.com/<username>
-      - https://github.com/mansella42
+#     - https://github.com/<username>
 
 
 # Other Plugins
