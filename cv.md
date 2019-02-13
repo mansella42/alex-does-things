@@ -7,4 +7,7 @@ layout: page
 order: 5
 ---
 
-Writing things.
+Nothing fancy here.
+{:.lead}
+
+Download my [CV](./assets/cv.pdf){:target="_blank"}
