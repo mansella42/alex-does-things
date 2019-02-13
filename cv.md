@@ -4,7 +4,7 @@ title: CV
 menu: true
 sitemap: false
 layout: page
-order: 5
+order: 4
 ---
 
 Nothing fancy here.

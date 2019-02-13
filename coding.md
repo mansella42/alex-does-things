@@ -4,7 +4,7 @@ title: Code
 menu: true
 sitemap: false
 layout: page
-order: 3
+order: 2
 ---
 
 Coding things.

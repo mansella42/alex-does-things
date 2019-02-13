@@ -4,7 +4,7 @@ title: Write
 menu: true
 sitemap: false
 layout: page
-order: 2
+order: 1
 ---
 
 Writing things.
