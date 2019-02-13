@@ -1,6 +1,6 @@
 ---
 # file: !my-blog.md
-title: Write
+title: Design
 menu: true
 sitemap: false
 layout: page
