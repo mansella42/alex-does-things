@@ -12,3 +12,28 @@ Nothing fancy here.
 
 <a href="../assets/cv.pdf" target="_blank"><button style="background-color:rgb(240, 186, 39); border-radius:10px;" >Download CV</button></a>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
